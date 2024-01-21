@@ -1,0 +1,5 @@
+symbols_test_Crypto = [
+'BTC-USD','https://it.tradingview.com/symbols/BTC-USD/','Bitcoin USD','',
+'DOGE-USD','https://it.tradingview.com/symbols/DOGE-USD/','DOGE-USD','',
+'BNB-USD','https://it.tradingview.com/symbols/BNB-USD/','BNB-USD',''
+]
