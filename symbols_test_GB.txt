@@ -1,0 +1,3 @@
+symbols_test_GB = [
+'BEZ.L','https://it.tradingview.com/symbols/LSE-BEZ/','BEAZLEY PLC (UK) ORD GBP0.05','3.6B'
+]
